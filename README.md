@@ -1,2 +1,11 @@
-# Seasonal-Agriculture-Performance-Analysis
-A data analytics project analyzing agricultural performance across seasons, crops, irrigation methods, environmental conditions, resource usage, and economic performance.
+ Seasonal Agriculture Performance Analysis
+ Project Overview
+ Problem Statement
+ Objectives
+ Dataset
+ Technologies Used
+ Analysis Performed
+ Key Findings
+ Project Structure
+ Future Scope
+ Conclusion
